@@ -5,5 +5,5 @@ branches:
 projects:
   VanillaFishing:
     path: ""
-    icon: "resources/fishing_icon.png"
+    icon: "resources/icon.png"
 ...
