@@ -1,0 +1,6 @@
+name: VanillaFishing
+description: "Adds fishing function into your pocketmine server."
+version: 1.0.0
+api: 5.0.0
+main: FurkanYks\Olta\Main
+author: FurkanYks
